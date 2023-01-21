@@ -3,4 +3,4 @@
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-  Thanks you for helping us to learn git.
+  Thanks you for helping us to learn git and git hub.
